@@ -11,7 +11,7 @@ I assume you already have the latest "Eclipse IDE for Java Developers" or equiva
 
 First, install (from inside Eclipse) the Subversive plug-in (http://www.eclipse.org/subversive/installation-instructions.php). 
 
-Source (and libraries): do an import from the repository using File -> Import -> Project from SVN -> URL: http://sapo-desktop.googlecode.com/svn/sapo_desktop
+Import source and libraries from the repository: use File -> Import -> Project from SVN -> URL: http://sapo-desktop.googlecode.com/svn/sapo_desktop
 
 No need to authenticate. Check out as a project configured using the New Project Wizard (then select Java -> Java Project). In the dialog wizard, choose a project name and select “configure separate folders for source  and class files”, then click finish. When asked for the secure storage password, simply cancel. Wait project download. 
 
